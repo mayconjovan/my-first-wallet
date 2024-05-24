@@ -34,7 +34,3 @@ console.log("carteira gerada")
 console.log("Endereco: ", btcAdress)
 console.log("chave privada: ", node.toWIF())
 console.log("Seed", mnemonic)
-
-//Endereco:  mk4hAigML7rdDqRSCjqjsbYjkSmoEqvh73
-//chave privada:  cMio2JyAUC9hTtkuZVr2vJUczavpnJPVXEosYiRfv9FCH4z8CM6g
-//Seed diagram hire enable practice whale joy cherry film into acoustic uncle dwarf
